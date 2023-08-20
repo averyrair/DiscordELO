@@ -1,0 +1,16 @@
+{
+  "name": "dominiontracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drslug",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.3.1",
+    "mysql2": "^3.0.1"
+  }
+}
